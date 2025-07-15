@@ -1,2 +1,2 @@
-# Project-and-Reports
-This folder is contains project and reports that Hamza Solmaz did or contributed.
+# Presentations
+These presentations are generated and presented for some courses in university.
